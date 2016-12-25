@@ -1,0 +1,4 @@
+// Load vocabularies
+$(function() {
+	
+});
