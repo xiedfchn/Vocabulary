@@ -30,7 +30,7 @@ if (!isset ($_SESSION['username']))
     <body class="page-container-boxed">
         <!-- START PAGE CONTAINER -->
         <div class="page-container page-navigation-toggled">
-            
+            <!-- sdjfklds -->
             <?php require "sideBar.php"; ?>
             
             <!-- PAGE CONTENT -->
