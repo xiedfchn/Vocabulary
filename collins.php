@@ -31,8 +31,6 @@ if (!isset ($_SESSION['username']))
         <!-- START PAGE CONTAINER -->
         <div class="page-container page-navigation-toggled">
             
-            <?php require "sideBar.php"; ?>
-            
             <!-- PAGE CONTENT -->
             <div class="page-content wordList">
                 <!-- END NAV -->
